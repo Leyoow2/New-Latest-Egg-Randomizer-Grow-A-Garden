@@ -1,0 +1,1 @@
+﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/hohohhodave/Growagardenvisual/refs/heads/main/76e2fe03c52a64ae259080a701818852.txt"))()
